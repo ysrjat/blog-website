@@ -4,7 +4,8 @@
 
 ### Run the Django Project
 # blog-website
-# this is a small blog website  which have only two page shows how connect request and get response from data base
+# this is a small blog website  which have only two page shows how to connect with data base request and retrive data from database
 # framework use django
 # language use python
+# database sqLite3
 
